@@ -6,7 +6,7 @@ import os
 from typing import List, Tuple, Dict, Set, Optional
 
 
-#文本输入处理类
+#文本输入处理类，
 class TextProcessor:
     """处理文本输入，提取单词序列"""
     @staticmethod
@@ -325,4 +325,6 @@ def main():
             print("Invalid choice. Please try again.")
 
 if __name__ == "__main__":
-    main()"#change" 
+    main()
+
+##测试github plugin
