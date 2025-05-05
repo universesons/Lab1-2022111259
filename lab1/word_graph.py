@@ -5,6 +5,8 @@ import heapq
 import os
 from typing import List, Tuple, Dict, Set, Optional
 
+
+#文本输入处理类
 class TextProcessor:
     """处理文本输入，提取单词序列"""
     @staticmethod
